@@ -55,3 +55,8 @@ Built as a beginner-level ML project using Python, Pandas, and Scikit-Learn.
 git clone https://github.com/visheshjainn16/House-Price-Prediction.git
 
 # Run the notebook in Google Colab or Jupyter Notebook
+
+🙌 Author
+Vishesh Jain
+B.Tech CSE (AI & ML)
+📫 Connect with me on GitHub
